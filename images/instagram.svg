@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M42.203,55.406 C51.2926529,55.406 58.406,48.3398686 58.406,39.301 C58.406,30.2621314 51.304792,23 42.203,23 C33.101208,23 26,30.366444 26,39.203 C26,48.039556 33.1133471,55.406 42.203,55.406 Z" id="Oval" fill="#000000"></path>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="42" cy="39" r="4"></circle>
+        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="33" y="30" width="18" height="18" rx="5"></rect>
+        <path d="M47.2168288,35.0745127 C47.8500741,35.0745127 48.2655505,34.6478394 48.2655505,33.9295809 C48.2655505,33.2113224 47.8196974,32.9053783 47.1327753,32.9053783 C46.4458532,32.9053783 46,33.0952028 46,34 C46,34.9047972 46.5835836,35.0745127 47.2168288,35.0745127 Z" id="Oval" fill="#FFFFFF"></path>
+    </g>
+</svg>
